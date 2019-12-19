@@ -1,7 +1,5 @@
 # Walk-Mate
 
-# MY SECURE WALK
-
 ## Project Abstract
 
 Exiting apps on the Google Play Store only display the shortest way to reach a destination. They fail at providing the safest way to the destination. That is where My Secure Walk comes into play. The app requires users to type in their destination and maps out a route that is relatively safer than others.
